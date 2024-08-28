@@ -210,6 +210,7 @@ header{
     border-bottom-right-radius: 500px;
     border: 1px solid #077b32;
     box-shadow: 3px 2px 10px#077b32;
+    cursor: pointer;
 }
 .auto-type{
     color: #077b32;
